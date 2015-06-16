@@ -14,4 +14,9 @@ script:
 notfications:
   email: false
 
-cache: bundler
+cache: 
+  directories:
+  - vendor/bundle
+
+install:
+  - true
