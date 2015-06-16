@@ -5,4 +5,4 @@ rvm:
   - 2.1.5
 install
   - date
-  - 6 2015
+  - call 6 2015
