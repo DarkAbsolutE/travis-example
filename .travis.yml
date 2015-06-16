@@ -10,3 +10,6 @@ install:
 script:
   - rake default
   - true
+
+notfications:
+  email: false
