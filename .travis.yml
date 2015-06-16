@@ -8,5 +8,4 @@ install:
   - cal 6 2015
 
 script:
-  - false
   - rake default
